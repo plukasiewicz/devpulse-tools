@@ -6,7 +6,7 @@ Skille, subagent i hooki Claude Code dla projektów .NET + React w stylu DevPuls
 ## Instalacja
 
 ```
-/plugin marketplace add <org>/devpulse-tools
+/plugin marketplace add dev-k7q3x/devpulse-tools
 /plugin install devpulse-kit@devpulse-tools
 ```
 
