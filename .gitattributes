@@ -1,0 +1,2 @@
+# Skrypty hookow musza miec konce linii LF - z CRLF bash sie na nich wywraca
+*.sh text eol=lf

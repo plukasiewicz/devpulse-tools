@@ -1,0 +1,8 @@
+{
+  "name": "devpulse-tools",
+  "description": "Pluginy zespołu DevPulse",
+  "owner": { "name": "Paweł Łukasiewicz" },
+  "plugins": [
+    { "name": "devpulse-kit", "source": "./plugins/devpulse-kit", "description": "Skille, subagenci i hooki dla projektów .NET + React" }
+  ]
+}

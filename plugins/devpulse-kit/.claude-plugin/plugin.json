@@ -1,0 +1,6 @@
+{
+  "name": "devpulse-kit",
+  "description": "Skille, subagenci i hooki dla projektów .NET + React w stylu DevPulse",
+  "version": "1.0.0",
+  "author": { "name": "Paweł Łukasiewicz" }
+}
