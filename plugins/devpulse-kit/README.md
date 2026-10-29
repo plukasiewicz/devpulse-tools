@@ -6,12 +6,9 @@ Skille, subagent i hooki Claude Code dla projektów .NET + React w stylu DevPuls
 ## Instalacja
 
 ```
-/plugin marketplace add dev-k7q3x/devpulse-tools
+/plugin marketplace add plukasiewicz/devpulse-tools
 /plugin install devpulse-kit@devpulse-tools
 ```
-
-Repozytorium jest prywatne: potrzebny jest dostęp do niego przez git (`gh auth login` lub klucz SSH).
-Automatyczne aktualizacje w tle wymagają tokena w zmiennej środowiskowej `GITHUB_TOKEN`.
 
 ### Wymagania
 
